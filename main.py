@@ -24,6 +24,12 @@ def even_or_odd_number(num):
     return num
 
 
+def Square(X):
+    # computes the Square of the given number
+    # and return to the caller function
+    return (X * X)
+
+
 if __name__ == '__main__':
     leap_year(2020)
     even_or_odd_number(2000)
