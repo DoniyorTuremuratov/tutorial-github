@@ -24,6 +24,10 @@ def even_or_odd_number(num):
     return num
 
 
+def add_num(x, y):
+    return x + y
+
+
 if __name__ == '__main__':
     leap_year(2020)
     even_or_odd_number(2000)
