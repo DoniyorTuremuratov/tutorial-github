@@ -32,8 +32,12 @@ def multiply_num(x, y):
     return x * y
 
 
-def divide_num(x, y):
-    return x / y
+def divide_num(x, y, z):
+    return x / y / z
+
+
+def square_num(x):
+    return x * x
 
 
 if __name__ == '__main__':
