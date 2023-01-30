@@ -26,7 +26,15 @@ def even_or_odd_number(num):
 
 def add_num(x, y):
     return x + y
-#
+
+
+def multiply_num(x, y):
+    return x * y
+
+
+def divide_num(x, y):
+    return x / y
+
 
 if __name__ == '__main__':
     leap_year(2020)
