@@ -24,8 +24,10 @@ def even_or_odd_number(num):
     return num
 
 
+
 def add_num(x, y):
     return x + y
+
 
 
 def multiply_num(x, y):
@@ -38,6 +40,11 @@ def divide_num(x, y, z):
 
 def square_num(x):
     return x * x
+
+def Square(X):
+    # computes the Square of the given number
+    # and return to the caller function
+    return (X * X)
 
 
 if __name__ == '__main__':
