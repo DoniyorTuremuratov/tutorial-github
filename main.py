@@ -30,6 +30,10 @@ def Square(X):
     return (X * X)
 
 
+def name():
+    pass
+
+
 if __name__ == '__main__':
     leap_year(2020)
     even_or_odd_number(2000)
