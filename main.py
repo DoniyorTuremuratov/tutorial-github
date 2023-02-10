@@ -34,6 +34,10 @@ def Square(X):
     # and return to the caller function
     return (X * X)
 
+# FIX CONFLICTS
+
+#Doniyor
+
 
 def name():
     pass
