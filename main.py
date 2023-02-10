@@ -38,6 +38,8 @@ def Square(X):
 
 #Doniyor
 
+#Turemuratov
+
 
 if __name__ == '__main__':
     leap_year(2020)
