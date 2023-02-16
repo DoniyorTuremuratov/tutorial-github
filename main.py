@@ -29,6 +29,18 @@ def add_num(x, y):
     return x + y
 
 
+
+def multiply_num(x, y):
+    return x * y
+
+
+def divide_num(x, y, z):
+    return x / y / z
+
+
+def square_num(x):
+    return x * x
+
 def Square(X):
     # computes the Square of the given number
     # and return to the caller function
